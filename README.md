@@ -1,6 +1,6 @@
 # German to English Category Translator
 
-This Python script translates German categories and their descriptions to English using the MarianMT model from Hugging Face's transformers library.
+This Python script runs completely offline after installing once it translates German categories and their descriptions to English using the MarianMT model from Hugging Face's transformers library.
 
 ## Features
 
